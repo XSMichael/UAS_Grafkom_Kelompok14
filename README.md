@@ -6,4 +6,4 @@ Anggota kami terdiri dari:
 
 **[Laporan Proyek](https://docs.google.com/document/d/1e19bZcoy_X5geIBJyDx2PxGUBYqZfyqgrpCmHXFGkkQ/edit?usp=sharing)**
 <br>
-**[Demo Video Digimon Farm](https://drive.google.com/file/d/1R4fp0MvYWVsNBzIu1vMqpj5Zh7D3cho6/view?usp=sharing)**
+**[Demo Video Digimon Farm](https://drive.google.com/file/d/1KPFPuDRCaijRsam9iBh9efi4KJS_pJc9/view?usp=sharing)**
