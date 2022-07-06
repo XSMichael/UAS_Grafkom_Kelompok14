@@ -1,6 +1,4 @@
-# UAS_Grafkom_Kelompok14
-
-# Grafika Komputer Kelompok 14 (Digimon)
+#UAS Grafika Komputer Kelompok 14 (Digimon)
 Anggota kami terdiri dari:
 - Felix (C14200165)
 - Filbert Ferdinand Lim (C14200184)
