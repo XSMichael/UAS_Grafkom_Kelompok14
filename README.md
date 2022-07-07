@@ -8,4 +8,5 @@ Anggota kami terdiri dari:
 <br>
 **[Demo Video Digimon Farm](https://drive.google.com/file/d/1KPFPuDRCaijRsam9iBh9efi4KJS_pJc9/view?usp=sharing)**
 <br>
-**[All Code & Assets](https://drive.google.com/drive/folders/1Z3nLlnSrs94krvl9uZcIjog4h0jxoU-w?usp=sharing)**
+# Semua Asset berada di folder drive ini
+**[All Assets](https://drive.google.com/drive/folders/1Z3nLlnSrs94krvl9uZcIjog4h0jxoU-w?usp=sharing)**
